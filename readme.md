@@ -11,5 +11,5 @@ This is for running WRF-Chem after all the pre-processing steps are completed.  
 - Setting paths and loading modules
 - Copying output from real
 - Copying the namelist
-- running WRF-Chem using mpi run
+- Running WRF-Chem using mpi run
 - Moving output from the scratch folder to the output folder, removing the scratch folder
